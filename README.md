@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meltyness
 - 👀 I’m interested in software. 😲
-- 🌱 I’m currently learning rust.
-- 💞️ I’m looking to collaborate on learning rust.
+- 🌱 I’m currently studying Physics
+- 💞️ I’m looking to explore reality, and better humanity.
 - 📫 How to reach me: hitting and throwing things.
 
 <!---
