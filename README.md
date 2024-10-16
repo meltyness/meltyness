@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @meltyness
 - 👀 I’m interested in software. 😲
-- 🌱 I’m currently studying Physics
+- 🌱 I’m currently reading Concrete Semantics
 - 💞️ I’m looking to explore reality, and better humanity.
-- 📫 How to reach me: hitting and throwing things.
+- 📫 How to reach me: hitting, throwing things, guttural screeches.
+
+$$int_R{e^{-{x-\mu} \over \sqrt{2\pi\sigma^2}^2}}\over{2\pi\sigma^2}^2}}$$
 
 <!---
 meltyness/meltyness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
