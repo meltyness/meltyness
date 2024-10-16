@@ -4,7 +4,7 @@
 - 💞️ I’m looking to explore reality, and better humanity.
 - 📫 How to reach me: hitting, throwing things, guttural screeches.
 
-$$int_R{e^{-{x-\mu}^2 \over \sqrt{2\pi\sigma^2}^2}}}\over{2\pi\sigma^2}^2}}$$
+$$\int_R {e^{(x-\mu)^2\over\sqrt{4\pi\sigma^2}} \over \sqrt{4\pi\sigma^2}}$$
 
 <!---
 meltyness/meltyness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
