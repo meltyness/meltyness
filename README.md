@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @meltyness
 - 👀 I’m interested in software. 😲
-- 🌱 I’m currently reading Concrete Semantics
+- 🌱 ~~I’m currently reading Concrete Semantics~~
+  - I've decided to change course and learn Lean4 instead for now... 
 - 💞️ I’m looking to explore reality, and better humanity.
 - 📫 How to reach me: hitting, throwing things, guttural screeches.
 
